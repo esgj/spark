@@ -1,7 +1,8 @@
 {
     "name": "egjendem/spark",
     "description": "Dependency Injection Container (DIC) for PHP",
-    "keywords": ["IoC", "Inversion of Control", "DIC", "Dependency Injection Container"],
+    "version": "1.0.0",
+    "keywords": ["DIC", "Dependency Injection Container"],
     "type": "library",
     "homepage": "https://github.com/egjendem/spark",
     "authors": [
